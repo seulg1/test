@@ -9,5 +9,6 @@
 <body>
 	<h1>git테스트 프로젝트</h1>
 	<hr>
+	<p>내용추가</p>
 </body>
 </html>
